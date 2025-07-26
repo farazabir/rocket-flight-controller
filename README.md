@@ -30,3 +30,5 @@ A lightweight ESP32-based pitch and roll tracking system using the MPU9250 senso
 ## 🖼️ Example Output
 
 Pitch: -1.35°, Roll: 0.42°
+
+![Setup Photo](images/mpusetup.jpg)
