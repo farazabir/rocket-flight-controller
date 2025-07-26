@@ -1,4 +1,3 @@
-# FarazFlight: Pitch-Roll Tracker
 
 A lightweight ESP32-based pitch and roll tracking system using the MPU9250 sensor. Built by Faraz Ahmed Abir under FarazInc, for model rocket attitude sensing.
 
